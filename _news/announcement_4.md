@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Participated in <a href="http://ieeevr.org/2023/">IEEE VR 2023</a> held in Shanghai as a poster presenter! :sparkles: :smile:
+Participated in <a href="http://ieeevr.org/2023/"> IEEE VR 2023 </a> held in Shanghai as a poster presenter! :sparkles: :smile:

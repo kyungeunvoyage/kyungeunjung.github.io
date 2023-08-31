@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Mo2Hap accepted at <a href="https://uist.acm.org/2023/cfp/#demos"> UIST Demo Session </a>! 
+Mo2Hap accepted to <a href="https://uist.acm.org/2023/cfp/#demos"> UIST 2023 Demo Session </a>! 
