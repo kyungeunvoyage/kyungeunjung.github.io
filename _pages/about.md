@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 Hi, This is Kyungeun Jung, master student in KAIST <a href="https://hcitech.org/#" target="_blank">HCI Tech Lab </a> (Advisor: Sang Ho Yoon).
 Interested in HCI, especially in Haptics interfaces regarding human ergonomics!
 
-Please feel free to email me <a href="kyungeun.jung@kaist.ac.kr" target="_blank">'Kyugneun.jung@kaist.ac.kr'</a> :) :sparkles:
+Please feel free to email me <a href="kyungeun.jung@kaist.ac.kr" target="_blank">'kyungeun.jung@kaist.ac.kr'</a> :) :sparkles:
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
