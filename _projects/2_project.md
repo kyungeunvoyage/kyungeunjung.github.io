@@ -1,8 +1,8 @@
 ---
 layout: page
 title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+description: Mo2Hap: Rendering performer's Motion Flow to Upper-body Vibrotactile Haptic Feedback for VR performance
+img: assets/img/1.jpg
 importance: 2
 category: work
 giscus_comments: true
