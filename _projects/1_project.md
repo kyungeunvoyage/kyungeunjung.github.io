@@ -5,14 +5,10 @@ description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: jung2023mo2hap
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+  We introduce a unique haptic rendering framework that transforms the performer's actions into wearable vibrotactile feedback for an immersive virtual reality~(VR) performance experience. To capture essential movements from the virtual performer, we propose a method called Motion Salient Triangle. Motion Salient Triangle is a real-time 3D polygon that computes haptic characteristics~(intensity, location) based on motion skeletal data. Here, we employ an entire upper-body haptic system that provides vibrotactile feedback on the torso, back, and shoulders. This haptic rendering pipeline enable audiences to experience immersive VR performance by accommodating the performer's motions on top of motion-to-haptic feedback.
 
     ---
     layout: page
