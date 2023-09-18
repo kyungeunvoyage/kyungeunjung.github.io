@@ -1,7 +1,7 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Kyunguen Jung
       value: Kyungeun Jung
     - name: Languages
       value: English, Korean
@@ -13,8 +13,8 @@
       institution: Korea Advanced Institute of Science and Technology
       year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - HCI Tech Lab, Graduate School of Culture Technology
+        - Metaverse Program
     - title: B.S.
       institution: Dongguk University, Seoul
       year: 2022
