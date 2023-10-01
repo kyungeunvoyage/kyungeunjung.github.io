@@ -4,6 +4,6 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: Kyungeun_CV.pdf
-description: 
+redirect_to: /assets/pdf/Kyungeun_CV.pdf
+
 ---
