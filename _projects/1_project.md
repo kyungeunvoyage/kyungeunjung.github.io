@@ -1,8 +1,8 @@
 ---
 layout: page
 title: project 1
-description: hi
-img: assets/img/12.jpg
+description: Mo2Hap : Mo2Hap: Rendering VR Performance Motion Flow to Upper-body Vibrotactile Haptic Feedback
+img: assets/img/TeaserFig3.png
 importance: 1
 category: work
 related_publications: jung2023mo2hap
