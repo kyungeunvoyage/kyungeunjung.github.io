@@ -19,6 +19,9 @@ social: true  # includes social icons at the bottom of the page
 Hi, This is Kyungeun Jung, master student in KAIST <a href="https://hcitech.org/#" target="_blank">HCI Tech Lab </a> (Advisor: Sang Ho Yoon).
 Interested in HCI, especially in Haptics interfaces regarding human ergonomics!
 
+You can enjoy more info from <a href="https://youtu.be/N4KyhQ0RQks"> Mo2Hap(30'')</a>
+I would love to hear your thoughts from my Live Demo! Please share your Experiences <a href="https://www.notion.so/kyungeunzung/Share-your-Experience-from-Mo2Hap-3ffdf9192f9047e4a0d139668ef5cf41?pvs=4"> Here!  </a> <p>&#128151;</p>
+
 Please feel free to email me
 <a href="mailto:﻿"kyungeun.jung@kaist.ac.kr">kyungeun.jung@kaist.ac.kr</a> :^) :sparkles:
 
