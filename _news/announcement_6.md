@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[&# 127881 UIST'23] People’s choice Best Demo Award for Mo2Hap! 
+[:tada: UIST'23] People’s choice Best Demo Award for Mo2Hap! 

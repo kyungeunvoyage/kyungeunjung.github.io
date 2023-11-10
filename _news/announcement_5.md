@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"HapMotion: Motion-to-Tactile Framework with Wearable Haptic Devices for Immersive VR Performance Experience" is accepted to <a href="https://www.springer.com/journal/10055"> Virtual Reality (Springer)</a> ! Soon to be published! Stay Tuned &#128516
+"HapMotion: Motion-to-Tactile Framework with Wearable Haptic Devices for Immersive VR Performance Experience" is accepted to <a href="https://www.springer.com/journal/10055"> Virtual Reality (Springer)</a> ! Soon to be published! Stay Tuned :eyes:

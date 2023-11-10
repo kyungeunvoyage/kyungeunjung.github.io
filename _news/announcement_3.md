@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-Working as a HCI@KAIST committee member, Soyoung and I organized the CHI'24 workshop for all members in HCI@KAIST.
+Working as a HCI@KAIST committee member, Soyoung and I organized and moderated the CHI'24 workshop for all members in HCI@KAIST.
