@@ -6,4 +6,6 @@ inline: false
 related_posts: false
 ---
 
+<img src="/assets/img/noahCHIW1.jpg" alt="noah1" width="128" height="128">
+
 Working as a HCI@KAIST committee member, Soyoung and I organized and moderated the CHI'24 workshop for all members in HCI@KAIST.
