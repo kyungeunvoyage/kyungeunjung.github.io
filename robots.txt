@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kyungeunvoyage.github.io/kyungeunjung//sitemap.xml
+Sitemap: https://kyungeunvoyage.github.io/sitemap.xml
