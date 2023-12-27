@@ -11,19 +11,18 @@ profile:
   address:
 
 news: true  # includes a list of news items
-education: true
+education: false
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-services : false
-honors: false
+services : true
+honors: true
 
 ---
-Hi:raised_hands::skin-tone-2: This is Kyungeun Jung, master student in KAIST <a href="https://hcitech.org/#" target="_blank">HCI Tech Lab </a> (Advisor: Sang Ho Yoon). <br>
+Hi:raised_hands: This is Kyungeun Jung, master student in KAIST <a href="https://hcitech.org/#" target="_blank">HCI Tech Lab </a> (Advisor: Sang Ho Yoon). <br>
 
 Interested in HCI, especially in Haptics interfaces regarding human ergonomics! <br>
 
-Please feel free to email me
-<a href="mailto:﻿ kyungeun.jung@kaist.ac.kr">kyungeun.jung@kaist.ac.kr</a> :^) :sparkles:
+Please feel free to email me <a href="mailto:﻿ kyungeun.jung@kaist.ac.kr">kyungeun.jung@kaist.ac.kr</a> :^) :sparkles:
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
