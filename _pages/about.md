@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://hcitech.org/#'>KAIST</a>. 291 Daehak-ro, Yuseong-gu, Daejeon. +82)01032998537
+subtitle: M.S.student in <a href='https://hcitech.org/#'> HCI Tech Lab</a> at KAIST.
 
 profile:
   align: right
@@ -11,12 +11,14 @@ profile:
   address:
 
 news: true  # includes a list of news items
+education: true
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-
+services : false
+honors: false
 
 ---
-Hi, This is Kyungeun Jung, master student in KAIST <a href="https://hcitech.org/#" target="_blank">HCI Tech Lab </a> (Advisor: Sang Ho Yoon). <br>
+Hi:raised_hands::skin-tone-2: This is Kyungeun Jung, master student in KAIST <a href="https://hcitech.org/#" target="_blank">HCI Tech Lab </a> (Advisor: Sang Ho Yoon). <br>
 
 Interested in HCI, especially in Haptics interfaces regarding human ergonomics! <br>
 

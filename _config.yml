@@ -44,7 +44,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -173,8 +173,14 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: false
+    output: true
     permalink: /projects/:path/
+  education:
+    defaults:
+      layout: post
+    permalink: /education/ :path/
+    output: true
+
 
 announcements:
   enabled: true
@@ -236,7 +242,7 @@ plugins:
 # Sitemap settings
 defaults:
   - scope:
-      path: "assets"
+      path: "assets/**/*.*"
     values:
       sitemap: false
 
@@ -273,10 +279,10 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Jung]
+  last_name: Jung
   first_name: [Kyungeun]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/
