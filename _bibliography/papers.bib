@@ -1,62 +1,81 @@
 ---
 ---
-@article{jung2023mo2hap,
-    title     = {Mo2Hap- Rendering VR Performance Motion Flow to Upper-body Vibrotactile Haptic Feedback},
-    author    = {Jung, Kyungeun and Yoon, Sang Ho},
-    journal   = {UIST (demo)},
+@article{jung2023hapmotion,
+    title     = {HapMotion:Motion-to-Tactile Framework with Wearable Haptic Devices for Immersive VR Performance Experience},
+    author    = {Jung, Kyungeun and Kim, SangPil and Oh, Seungjae and Yoon, Sang Ho},
+    journal   = {Virtual Reality [Springer](https://www.springer.com/journal/10055)},
     year      = {2023},
-    abstract  = {Semantic segmentation for autonomous driving should be robust against various in-the-wild environments. Nighttime semantic segmentation is especially challenging due to a lack of annotated nighttime images and a large domain gap from daytime images with sufficient annotation. In this paper, we propose a novel GPS-based training framework for nighttime semantic segmentation. Given GPS-aligned pairs of daytime and nighttime images, we perform cross-domain correspondence matching to obtain pixel-level pseudo supervision. Moreover, we conduct flow estimation between daytime video frames and apply GPS-based scaling to acquire another pixel-level pseudo supervision. Using these pseudo supervisions with a confidence map, we train a nighttime semantic segmentation network without any annotation from nighttime images. Experimental results demonstrate the effectiveness of the proposed method on several nighttime semantic segmentation datasets.},
-    abbr      = {UIST},
-    code      = {https://github.com/jimmy9704/GPS-GLASS},
-    selected  = {true},
-    arxiv     = {2207.13297},
-    img_path  = {assets/img/UIST.png}
-}
-
-@article{yoo2023vosvfi,
-    title     = {Video Object Segmentation-aware Video Frame Interpolation},
-    author    = {Yoo, Jun-Sang and Lee, Hongjae and Jung, Seung-Won},
-    journal   = {ICCV},
-    year      = {2023},
-    abstract  = {Video frame interpolation (VFI) is a very active research topic due to its broad applicability to many applications, including video enhancement, video encoding, and slow-motion effects. VFI methods have been advanced by improving the overall image quality for challenging sequences containing occlusions, large motion, and dynamic texture. This mainstream research direction neglects that foreground and background regions have different importance in perceptual image quality. Moreover, accurate synthesis of moving objects can be of utmost importance in computer vision applications. In this paper, we propose a video object segmentation (VOS)-aware training framework called VOS-VFI that allows VFI models to interpolate frames with more precise object boundaries. Specifically, we exploit VOS as an auxiliary task to help train VFI models by providing additional loss functions, including segmentation loss and bi-directional consistency loss. From extensive experiments, we demonstrate that VOS-VFI can boost the performance of existing VFI models by rendering clear object boundaries. Moreover, VOS-VFI displays its effectiveness on multiple benchmarks for different applications, including video object segmentation, object pose estimation, and visual tracking.},
-    abbr      = {ICCV},
+    abstract  = {We introduce a unique haptic rendering framework that transforms the performer’s actions into wearable vibrotactile feedback for an immersive virtual reality (VR) performance experience. To capture essential movements from the virtual performer, we propose a method called Motion Salient Triangle. Motion Salient Triangle is a real-time 3D polygon that computes haptic characteristics (intensity, location) based on motion skeletal data. Here, we employ an entire upper-body haptic system that provides vibrotactile feedback on the torso, back, and shoulders. This haptic rendering pipeline enable audiences to experience immersive VR performance by accommodating the performer’s motions on top of motion-to-haptic feedback.},
+    abbr      = {Virtual Reality},
+    doi       = {},
+    isbn      = {},
     selected  = {true},
     img_path  = {assets/img/vos_vfi.png}
 }
-@article{yoo2022hst,
-    title     = {Hierarchical Spatiotemporal Transformers for Video Object Segmentation},
-    author    = {Yoo, Jun-Sang and Lee, Hongjae and Jung, Seung-Won},
-    journal   = {ICCVW (oral)},
+
+@article{jung2023mo2hap,
+    title     = {Mo2Hap:Rendering VR Performance Motion Flow to Upper-body Vibrotactile Haptic Feedback},
+    author    = {Jung, Kyungeun and Yoon, Sang Ho},
+    journal   = {UIST (Demo)},
     year      = {2023},
-    abstract  = {This paper presents a novel framework called HST for semi-supervised video object segmentation (VOS). HST extracts image and video features using the latest Swin Transformer and Video Swin Transformer to inherit their inductive bias for the spatiotemporal locality, which is essential for temporally coherent VOS. To take full advantage of the image and video features, HST casts image and video features as a query and memory, respectively. By applying efficient memory read operations at multiple scales, HST produces hierarchical features for the precise reconstruction of object masks. HST shows effectiveness and robustness in handling challenging scenarios with occluded and fast-moving objects under cluttered backgrounds. In particular, HST-B outperforms the state-of-the-art competitors on multiple popular benchmarks.},
-    abbr      = {ICCVW},
+    abstract  = {We introduce a unique haptic rendering framework that transforms the performer’s actions into wearable vibrotactile feedback for an immersive virtual reality (VR) performance experience. To capture essential movements from the virtual performer, we propose a method called Motion Salient Triangle. Motion Salient Triangle is a real-time 3D polygon that computes haptic characteristics (intensity, location) based on motion skeletal data. Here, we employ an entire upper-body haptic system that provides vibrotactile feedback on the torso, back, and shoulders. This haptic rendering pipeline enable audiences to experience immersive VR performance by accommodating the performer’s motions on top of motion-to-haptic feedback.},
+    abbr      = {UIST EA},
+    code      = {https://github.com/jimmy9704/GPS-GLASS},
     selected  = {true},
-    arxiv     = {2307.08263},
-    img_path  = {assets/img/hst.png}
+    doi       = {https://dl.acm.org/doi/10.1145/3586182.3615775},
+    img_path  = {assets/img/UIST.png}
 }
-@article{lee2022phomonet,
-    title     = {Monocular Depth Estimation Network with Single-Pixel Depth Guidance},
-    author    = {Lee, Hongjae and Park, Jinbum and Wooseok Jeong and Jung, Seung-Won},
-    journal   = {Optics Letters},
+
+@article{jung2023thumbjoy,
+    title     = {ThumbJoy:Using the Thumb’s Metacarpophalangeal Joint as a Joystick Input Device},
+    author    = {Jung, Kyungeun and Song, KunWoo and Lee, Seungmin},
+    journal   = {ISMAR},
+    year      = {2023},
+    abstract  = {We introduce ThumbJoy, which utilizes the physical movement of the left thumb metacarpophalangeal (MCP) joint along with its psychophysical qualities as a joystick. Using an inertial measurement unit (IMU), ThumbJoy avoids the restraints of hand tracking occlusion, allowing more contact area for the thumb thus providing self-haptics. We first conducted a pilot study of 20 participants to systematically analyze the characteristics of the MCP joint. Using these results, we implemented an algorithm that converts joint movement to a planar 2D axis movement. We then conducted a user study comparing ThumbJoy with conventional interaction mediums in a virtual reality (VR) environment. Through this, we demonstrate that ThumbJoy can provide an intuitive method of control while increasing immersion and enjoyment in VR along with the use of self-haptics.},
+    abbr      = {ISMAR Adjunct},
+    doi       = {10.1109/ISMAR-Adjunct60411.2023.00142},
+    selected  = {true},
+    img_path  = {assets/img/vos_vfi.png}
+}
+
+@article{jung2023mo2hap,
+    title     = {Mo2Hap:Rendering performer's Motion Flow to Upper-body Vibrotactile Haptic Feedback for VR performance},
+    author    = {Jung, Kyungeun and Yoon, Sang Ho},
+    journal   = {IEEE VR},
+    year      = {2023},
+    abstract  = {We present a novel haptic rendering method that translates the vir-tual performer's motions into real-time vibrotactile feedback. Our method characterizes salient motion points from proposing system Motion Salient Triangle to generate haptic parameters to highlight the performer's motions. Here, we employ an entire upper-body hap-tic system that provides vibrotactile feedback on the torso, back, and shoulders. We enable immersive virtual reality (VR) performance experiences by accommodating the performer's motions on top of motion-to-haptic feedback.},
+    abbr      = {IEEE VR},
+    doi       = {10.1109/VRW58643.2023.00132},
+    selected  = {true},
+    img_path  = {assets/img/vos_vfi.png}
+}
+
+@article{jung2023mo2hap,
+    title     = {Mo2Hap:Rendering performer's Motion Flow to Upper-body Vibrotactile Haptic Feedback for VR performance},
+    author    = {Jung, Kyungeun and Yoon, Sang Ho},
+    journal   = {IEEE VR},
+    year      = {2023},
+    abstract  = {We present a novel haptic rendering method that translates the vir-tual performer's motions into real-time vibrotactile feedback. Our method characterizes salient motion points from proposing system Motion Salient Triangle to generate haptic parameters to highlight the performer's motions. Here, we employ an entire upper-body hap-tic system that provides vibrotactile feedback on the torso, back, and shoulders. We enable immersive virtual reality (VR) performance experiences by accommodating the performer's motions on top of motion-to-haptic feedback.},
+    abbr      = {IEEE VR},
+    doi       = {10.1109/VRW58643.2023.00132},
+    selected  = {true},
+    img_path  = {assets/img/vos_vfi.png}
+}
+
+@article{sung2023meta,
+    title     = {Meta-Blocks Customizable VR Controller with Multi-input Kinesthetic Haptic Feedback},
+    author    = {Jung, Kyungeun and Sung, Youjin and Hong, Yoonjae and Na, Hyunho and Oh, Eunji and Yoon, Sang Ho},
+    journal   = {Korea HCI Conference},
+    pages     = {940--946},
+    year      = {2023},
+    img_path  = {assets/img/vos_vfi.png}
+}
+
+@article{Jung2022End,
+    title     = {End-To-End Human Activity Recognition using Deep GraphNeural Networks with Data Augmentation for Sparse Radar PointClouds data},
+    author    = {SeJun Park and Jung, Kyungeun and Kawon Lee and JiHie Kim},
+    journal   = {Korea Journal of Computing Science and Engineering},
+    pages     = {1879--1881},
     year      = {2022},
-    abstract  = {Due to the scale ambiguity problem, the performance  of monocular depth estimation (MDE) is inherently restricted. Multi-camera systems, especially those equipped with active depth cameras, have addressed this problem at the expense of increased hardware costs and space. In this Letter, we adopt a similar but costeffective solution using only single-pixel depth guidance with a single-photon avalanche diode. To this end, we design a single-pixel guidance module (SPGM) that combines the global information from the single-pixel depth guidance with the spatial information from the image at the feature level. By integrating SPGMs into an MDE network, we introduce PhoMoNet, the first end-to-end MDE network with single-pixel depth guidance. Experimental results show the effectiveness and superiority of PhoMoNet over state-of-the-art MDE networks on synthetic and real-world datasets.},
-    abbr      = {Optics},
-    code      = {https://github.com/jimmy9704/PhoMoNet},
-    selected  = {true},
-    img_path  = {assets/img/phomonet.png}
-}
-@article{lee2021plane,
-    title     = {Clustering-based plane segmentation neural network for urban scene modeling},
-    author    = {Lee, Hongjae and Jung, Jiyoung},
-    journal   = {Sensors},
-    volume    = {21},
-    number    = {24},
-    pages     = {8382},
-    year      = {2021},
-    abstract  = {Urban scene modeling is a challenging but essential task for various applications, such as 3D map generation, city digitization, and AR/VR/metaverse applications. To model man-made structures, such as roads and buildings, which are the major components in general urban scenes, we present a clustering-based plane segmentation neural network using 3D point clouds, called hybrid K-means plane segmentation (HKPS). The proposed method segments unorganized 3D point clouds into planes by training the neural network to estimate the appropriate number of planes in the point cloud based on hybrid K-means clustering. We consider both the Euclidean distance and cosine distance to cluster nearby points in the same direction for better plane segmentation results. Our network does not require any labeled information for training. We evaluated the proposed method using the Virtual KITTI dataset and showed that our method outperforms conventional methods in plane segmentation. Our code is publicly available.},
-    abbr      = {Sensors},
-    code      = {https://github.com/jimmy9704/plane-segmentation-network},
-    earlyaccess={false},
-    selected  = {true},
-    img_path={assets/img/plane_segmentation.png}
+    img_path  = {assets/img/vos_vfi.png}
 }
