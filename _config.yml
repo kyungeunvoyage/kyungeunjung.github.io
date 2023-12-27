@@ -279,7 +279,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Jung]
+  last_name: Jung
   first_name: [Kyungeun]
 
   style: ieee
