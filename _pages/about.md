@@ -11,16 +11,17 @@ profile:
   address:
 
 news: true  # includes a list of news items
-education: false
+education: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 services : true
 honors: true
 
 ---
-Hi:raised_hands: This is Kyungeun Jung, master student in KAIST <a href="https://hcitech.org/#" target="_blank">HCI Tech Lab </a> (Advisor: Sang Ho Yoon). <br>
+Hi:raised_hands: This is Kyungeun Jung, a Master's student in [KAIST](https://www.kaist.ac.kr).
+I'm now part of [HCI Tech Lab](https://hcitech.org/#), advised by professor Sang Ho Yoon.
 
-Interested in HCI, especially in Haptics interfaces regarding human ergonomics! <br>
+I'm interested in HCI, especially in Haptics interfaces regarding human ergonomics!
 
 Please feel free to email me <a href="mailto:﻿ kyungeun.jung@kaist.ac.kr">kyungeun.jung@kaist.ac.kr</a> :^) :sparkles:
 
