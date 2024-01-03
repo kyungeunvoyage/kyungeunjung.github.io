@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: M.S.student in <a href='https://hcitech.org/#'> HCI Tech Lab</a> at KAIST.
 
