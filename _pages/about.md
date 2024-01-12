@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: M.S.student in <a href='https://hcitech.org/#'> HCI Tech Lab</a> at KAIST.
+subtitle: M.S. Student in <a href='https://hcitech.org/#'> HCI Tech Lab</a> at KAIST.
 
 profile:
   align: right
@@ -17,9 +17,11 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 Hi:raised_hands: This is Kyungeun Jung, a Master's student in [KAIST](https://www.kaist.ac.kr).
-I'm now part of [HCI Tech Lab](https://hcitech.org/#), advised by professor Sang Ho Yoon.
+I am a second year Master's Student at [HCI Tech Lab](https://hcitech.org/#), advised by professor Sang Ho Yoon. My experience spans across the domain of haptics, wearable interfaces.
 
-I'm interested in HCI, especially in Haptics interfaces regarding human ergonomics!
+I continuously seek answers especially in Haptics interfaces regarding human ergonomics! Still creating some meaningful questions and answers, and hope to fulfill my research journey with lots of sparkling and creative ideas.
+
+In my leisure time, I love to explore some sites to walk and enjoy the scenery of greeny trees.
 
 Please feel free to email me <a href="mailto:﻿ kyungeun.jung@kaist.ac.kr">kyungeun.jung@kaist.ac.kr</a> :^) :sparkles:
 
