@@ -21,7 +21,7 @@ I am a second year Master's Student at [HCI Tech Lab](https://hcitech.org/#), ad
 
 I continuously seek answers especially in Haptics interfaces regarding human ergonomics! Still creating some meaningful questions and answers, and hope to fulfill my research journey with lots of sparkling and creative ideas.
 
-In my leisure time, I love to explore some sites to walk and enjoy the scenery of [greeny trees 🌳](https://www.instagram.com/kyungeunzung/).
+In my leisure time, I love to explore some sites to walk and enjoy the scenery of [greeny trees 🌳](https://www.instagram.com/littlesalixbabylonica/).
 
 Please feel free to email me <a href="mailto:﻿ kyungeun.jung@kaist.ac.kr">kyungeun.jung@kaist.ac.kr</a> :^) :sparkles:
 
