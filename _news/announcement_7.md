@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[:tada: Korean Haptics Conference'23] Grand Prize (1st place) for Demo for <a href="https://dl.acm.org/doi/fullHtml/10.1145/3586182.3615775"> Mo2Hap </a>!
+[🏆 Korean Haptics Conference'23] Grand Prize (1st place) for Demo for <a href="https://dl.acm.org/doi/fullHtml/10.1145/3586182.3615775"> Mo2Hap </a>!
