@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[🏆 HCI Korea 2024] Best Poster Award for 'TeleAssiBot:Dual Secretary Robot'!
+[🏆🎉 HCI Korea 2024] Best Poster Award for 'TeleAssiBot:Dual Secretary Robot'!
