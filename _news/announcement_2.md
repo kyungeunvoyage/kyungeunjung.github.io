@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-08-25 15:59:00-0400
+date: 2023-11-02 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-'Thumbjoy, Using the Thumb's Metacarpophalangeal Joint as a Joystick Input Device' from CS492 is accepted to <a href="https://ismar23.org/">ISMAR 2023 poster session </a> ! 
+[🏆🎉 Korean Haptics Conference'23] Grand Prize (1st place) for Demo for <a href="https://dl.acm.org/doi/fullHtml/10.1145/3586182.3615775"> Mo2Hap </a>!
