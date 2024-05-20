@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\assets",
+    "\\assets\\bibliography",
+    "\\blog",
+    "\\_data",
+    "\\_includes",
+    "\\_includes\\cv",
+    "\\_includes\\repository",
+    "\\_includes\\resume"
   ],
+  "SelectedNode": "\\_includes\\cv\\map.html",
   "PreviewInSolutionExplorer": false
 }
