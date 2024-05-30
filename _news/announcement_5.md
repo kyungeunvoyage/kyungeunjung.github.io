@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[🌎CHI 2024] Excited to attend CHI'24 and share our lab's Demonstration in Hawaii🏝️ !! 
+[🏆🎉CHI 2024] Our Lab, HCI Tech Lab won a Popular Choice Winner! Happy to share our lab's Demo. Way to go! 
