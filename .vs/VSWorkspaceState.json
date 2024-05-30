@@ -1,17 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\bibliography",
-    "\\blog",
     "\\_bibliography",
     "\\_data",
     "\\_includes",
     "\\_includes\\cv",
     "\\_includes\\repository",
     "\\_includes\\resume",
-    "\\_news"
+    "\\_layouts",
+    "\\_news",
+    "\\_pages"
   ],
-  "SelectedNode": "\\_news\\announcement_6.md",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }
