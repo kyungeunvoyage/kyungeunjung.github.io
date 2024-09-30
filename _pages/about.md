@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: M.S. Student in <a href='https://hcitech.org/#'> HCI Tech Lab</a> at KAIST.
+subtitle: Ph.D Student in <a href='https://hcitech.org/#'> HCI Tech Lab</a> at KAIST.
 
 profile:
   align: right
