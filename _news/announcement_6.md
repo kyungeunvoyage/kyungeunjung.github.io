@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[🎉] Gave an invited talk in Korea Haptics Conference 2024! 
+[🔅] Gave an invited talk in Korea Haptics Conference 2024! 
